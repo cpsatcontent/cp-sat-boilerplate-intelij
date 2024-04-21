@@ -51,10 +51,13 @@ the screenshot, and it should represent the version number of the libraries that
 
 ### :hammer_and_wrench: Installation
 
-1. Clone/download this repo in your machine
-    ```bash
-      git clone https://github.com/cpsatcontent/cp-sat-boilerplate-intelij.git
-    ```
+1. To begin, `download` this repository by clicking on `<> Code` button from this repository.
+    >
+    > ![img](https://i.ibb.co/pPv1ybF/intelij-repo-download.png)
+2. Or `Fork` this repository by clicking on `Fork` button from this repository
+    >
+    > ![img](https://i.ibb.co/X557D94/intelij-repo-fork.png)
+
 2. Open `cmd` or `terminal` based on your machine and run following command
     ```bash
       mvn clean test
