@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="CP-SAT Exam - Boilerplate Test Suite" parallel="tests">
+
+    <test name="The Internet Login Test (Chrome)">
+        <classes>
+            <class name="com.ata.cpsat.tests.boilerplate.CPSatBoilerplateTests"/>
+        </classes>
+    </test>
+</suite>
