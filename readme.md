@@ -117,7 +117,7 @@ If all the above steps are confirmed, you have successfully forked the repositor
 3. To start writing the code, open the project in InteliJ IDE. _(
    i.e. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/))_
 
-# :dependabot: Project Dependencies
+## :dependabot: Project Dependencies
 
 This project utilizes several dependencies to provide various functionalities. Below is a table listing each dependency,
 its version, and a URL to its repository for more information.
