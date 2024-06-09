@@ -145,8 +145,10 @@ its version, and a URL to its repository for more information.
 Each dependency listed here is vital for the functionality and performance of this project. For more detailed
 information, visit the URLs provided.
 
-<mark>Please note that these are the minimum dependencies bundled as a part of this project. Feel free to add/update the
-version of above dependencies or add new dependencies/libraries of your choice.</mark>
+
+> [!TIP]
+> Please note that these are the minimum dependencies bundled as a part of this project. Feel free to add/update the
+version of above dependencies or add new dependencies/libraries of your choice.
 
 ## :magic_wand: Brought to you by
 
