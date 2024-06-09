@@ -87,9 +87,9 @@ the screenshot, and it should represent the version number of the libraries that
 
 1. **Check the Repository URL**
     - After forking, ensure you are redirected to your forked repository. The URL should be
-      > `https://github.com/[your-username]**/cp-sat-boilerplate-intelij`
+      > `https://github.com/[your-username]/cp-sat-boilerplate-intelij`
 
-      > `https://github.com/**[your-username]**/cp-sat-boilerplate-eclipse`
+      > `https://github.com/[your-username]/cp-sat-boilerplate-eclipse`
 
       > ![Step 1 - Check the Repository URL](path/to/screenshot5.png)
 
