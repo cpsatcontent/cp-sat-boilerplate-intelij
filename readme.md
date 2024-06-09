@@ -19,7 +19,7 @@
 - [Forking the Repository](#hammer_and_wrench-forking-the-repository)
 - [Validating the Fork](#validating-the-fork)
 - [Run Boilerplate Tests](#arrow_forward-run-boilerplate-tests)
-- [Project Dependencies](#project-dependencies)
+- [Project Dependencies](#dependabot-project-dependencies)
 
 ## :small_airplane: Getting Started
 
@@ -117,7 +117,7 @@ If all the above steps are confirmed, you have successfully forked the repositor
 3. To start writing the code, open the project in InteliJ IDE. _(
    i.e. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/))_
 
-# Project Dependencies
+# :dependabot: Project Dependencies
 
 This project utilizes several dependencies to provide various functionalities. Below is a table listing each dependency,
 its version, and a URL to its repository for more information.
